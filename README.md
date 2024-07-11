@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatnotfat&label=Profile%20views&color=0e75b6&style=flat" alt="fatnotfat" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatnotfat" alt="fatnotfat" /></a> </p>
+
 
 - 🔭 I’m currently working on [VMO-be](https://github.com/SU24VMO/su24_vmo_be_2)
 
